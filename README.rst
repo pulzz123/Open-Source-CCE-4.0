@@ -26,6 +26,8 @@ Requirements for Database Loader
 * PyMySql
 * Interrupting cow
 * Requests
+a pc 
+a fast international connection
 
 Requirements for Web Server
 ---------------------------
